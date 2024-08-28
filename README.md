@@ -1,13 +1,15 @@
-<<<<<<< HEAD
-# nextjs-dashboard
-=======
-<<<<<<< HEAD
-# nextjs-dashboard
-=======
-## Next.js App Router Course - Starter
+# アプリ名
+next.jsを使ったABテストアプリ（開発中）
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+# 概要
+特定のURLから取得したHTMLおよび画像データをLLMに入力して、デザインの改善案を自動で提案するアプリ
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
->>>>>>> dd392088 (first commit)
->>>>>>> 011e5a22 (first commit)
+# 頑張った点
+next.jsでreactネイティブな開発を行ったこと
+amazon bedrockへの接続を行うAPIを使ったこと
+ブラウザの機能を一部アプリから実行するために、ブラウザの機能を実行するAPIを利用したこと
+vercelを使ってデプロイしたこと
+
+# 感想
+データの送信、取得は決まりごとが多く非常に開発が面倒であることがわかった。
+便利な最近の開発機能を使うことで、開発が少し楽になることが実感できた。これからも新しい機能を積極的に利用しようと思う。
