@@ -26,3 +26,7 @@ https://github.com/user-attachments/assets/daa6969e-1bb1-4bfb-9a22-b93eda35fcbe
 ![image](https://github.com/user-attachments/assets/bdfc12ec-d554-44ca-bba7-66ea99b281d8)
 
 
+(※注意)
+404エラーになるのは仕様です。amazon bedrockのAPIゲートウェイのURLを貼れば、bedrockからの返信が返ってきますが、現在はダミーのURLを入れています。正しいURLを設定してしまうと、自分が費用負担しているので、（ないとは思いますが）乱用されて費用負担が発生するのを避けるためにこのような状態です。
+
+
