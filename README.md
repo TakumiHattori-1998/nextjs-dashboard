@@ -16,7 +16,11 @@ vercelを使ってデプロイしたこと
 
 # デモ
 入力したリンクからhtmlを取得して、修正版のスクリーンショットを表示するデモです。
-![86505FF4-A7BA-40CD-8B85-0D3E8B84E04C_1_102_o](https://github.com/user-attachments/assets/74cb410f-bdbb-4459-8d60-67504e2a7008)
+
+
+https://github.com/user-attachments/assets/daa6969e-1bb1-4bfb-9a22-b93eda35fcbe
+
+
 
 元のデザインは以下です。（わかりにくいですが、スタートボタンの表記が「START」から「クリックして開始」に修正されています。）
 ![image](https://github.com/user-attachments/assets/bdfc12ec-d554-44ca-bba7-66ea99b281d8)
